@@ -1,2 +1,2 @@
 # customerservicestimulation
-Given arrival times of customers, number of human servers (who may or may not take breaks after serving a customer), number of self-checkout counters(will never take breaks), how will customer arrival/leave/wait/serve/done events look like? Done as part of CS2030.
+The first line of user input starts with values representing the number of human servers, the number of self-check counters, the maximum queue length and the probability of a human server resting after a customer is done being served. This is followed by the arrival times of the customers. (Sample input files are provided) How will customer arrival/leave/wait/serve/done events look like? Done as part of NUS CS2030.
